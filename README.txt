@@ -4,12 +4,9 @@ This is a shiny app to visualize the variables computed with GGIR,
  To use you need to put the files app.R, executeMeFist.R and parameters.R where GGIR has 
  put the meta and results folders. If you prefer to put in in another place you can open
 the file parameters.R and modify the variable that contains the folder with GGIR computations 
-#####################################################################
 
 baseEpoch="." 
-
 modify it to your chosen folder:
-
 baseEpoch="/my/GGIR/computation/folder/..."
 
 
