@@ -1,7 +1,11 @@
+## Overview
+
 This is a shiny app to visualize the variables computed with GGIR,
  and how they are affected by the cutpoints and duration of the bouts definition.
  
- To use you need to put the files app.R, executeMeFist.R and parameters.R where GGIR has 
+## Usage
+
+You need to put the files app.R, executeMeFist.R and parameters.R where GGIR has 
  put the meta and results folders. If you prefer to put in in another place you can open
 the file parameters.R and modify the variable that contains the folder with GGIR computations 
 
