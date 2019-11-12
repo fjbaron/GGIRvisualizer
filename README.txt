@@ -8,7 +8,7 @@ the file parameters.R and modify the variable that contains the folder with GGIR
 
 baseEpoch="." 
 
-modified to
+modify it to your chosen folder:
 
 baseEpoch="/my/GGIR/computation/folder/..."
 
