@@ -14,6 +14,9 @@ GGIR is very configurable, so if you are not using his default parameters, you n
  modify that correspondingly.
  
  
+This code depend on a lot of libraries but hopefully they will be installed when you execute the shiny
+app for the first time.
+ 
 If you need help, please contact baron@uma.es
 
 
