@@ -52,6 +52,11 @@ defineWhat=list(
  ```
 
 
+Once you are happy with the modifications, you need to run the script `executeMeFirst.R` to process GGIR files
+with your new definitios, and after finishing, you are ready to run the shiny app `app.R`.
+
+
+
 ## Remarks 
 This code depend on a lot of libraries but hopefully they will be installed when you execute the shiny
 app for the first time. Please try to keep them updated.
