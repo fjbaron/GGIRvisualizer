@@ -2,6 +2,18 @@
 
 This is a shiny app to visualize the variables computed with [GGIR](https://cran.r-project.org/web/packages/GGIR/vignettes/GGIR.html),
  and how they are affected by the cutpoints and duration of the bouts definition.
+
+
+## Demo
+If you want to try a demo before installing, you can test it in this [shiny app](https://datahunter.es/shinyapps/ggirvisualizer/). There you can select an accelerometry file, and click in the left menu to:
+
+ * Visualize where the differents WHATs (bed, physical activity,...) happens. You can select **multiples files** at the same time to compare.
+ 
+ * Time series: You can examine and zoom inside the time series of Epochs computed by GGIR. You can see there in color the different activities that GGIR has computed, ore the ones defined by you (see below). You can see this if you have previously selected **just one file**.
+ 
+ * Get databases of summaries and other exploratory plots for sets of accelerometry files selected.
+
+
  
 ## Usage
 
